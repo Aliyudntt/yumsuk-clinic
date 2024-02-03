@@ -1,0 +1,13 @@
+Dear {{patient_name}},
+
+Thank you for booking an appointment with us. Your appointment details are as follows:
+
+Appointment Date: {{appointment_date}}
+Appointment Time: {{appointment_time}}
+Doctor: {{doctor_name}}
+Department: {{department}}
+
+We look forward to seeing you at the scheduled appointment.
+
+Best regards,
+Your Name

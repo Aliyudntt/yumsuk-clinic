@@ -1,9 +1,9 @@
 @import url('font-inter.css');
 :root {
-  --primarycolor: #0A76D8;
-  --primarycolorhover: #006dd3;
+  --primarycolor: #46ad5c;
+  --primarycolorhover: #46ad5c;
   --btnice:#D8EBFA;
-  --btnnicetext:#1b62b3;
+  --btnnicetext:#46ad5c;
 }
 
 body{
@@ -81,7 +81,7 @@ body{
 }
 
 .input-text:focus{
-    border: 1px solid rgb(10,118,216);
+    border: 1px solid rgb(13, 145, 52);
     transition: 0.2s;
 }
 
@@ -123,7 +123,7 @@ body{
 
 .btn-primary-soft{
     background-color: #D8EBFA ;
-    /*border: 1px solid rgba(57,108,240,0.1) ;*/    color: #1969AA;
+    /*border: 1px solid rgba(57,108,240,0.1) ;*/    color: #46ad5c;
     font-weight: 500;
     font-size: 16px;
     border: none;
@@ -135,7 +135,7 @@ body{
     background-color: var(--primarycolor) ;
     /*border: 1px solid rgba(57,108,240,0.1) ;*/
     color: #fff ;
-    box-shadow: 0 3px 5px 0 rgba(57,108,240,0.3);
+    box-shadow: 0 3px 5px 0 rgba(57, 240, 66, 0.3);
 }
 
 
@@ -305,7 +305,7 @@ input[type=search]:focus {
 
 
 .btn-primary-gray:hover{
-  background-color: #5185ffa9;
+  background-color: #46ad5c;
   box-shadow: 0 3px 5px 0 rgba(95, 95, 97, 0.3);
 }
 

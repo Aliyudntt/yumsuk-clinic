@@ -1,0 +1,13 @@
+Dear {{patient_name}},
+
+This is a reminder for your upcoming appointment with us. Here are the details:
+
+Appointment Date: {{appointment_date}}
+Appointment Time: {{appointment_time}}
+Doctor: {{doctor_name}}
+Department: {{department}}
+
+Please make sure to arrive on time for your appointment.
+
+Best regards,
+Your Name
